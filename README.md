@@ -1,55 +1,55 @@
-<!-- Header Animation -->
-<p align="center" style="tahoma">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi%20I'm%20Muskan%20Mathuria&fontSize=38&fontAlignY=35" />
+<!-- ===================== HEADER ANIMATION ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Muskan%20Mathuria&fontSize=40&fontAlignY=35" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=MCA+Student;Java+Learner;Aspiring+Software+Developer;Learning+by+Building+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MCA+Student;Java+Learner;Aspiring+Software+Developer;Learning+by+Building+Projects" />
 </p>
 
 ---
 
+## 👋 Introduction
+I am **Muskan Mathuria**, an MCA student with a strong interest in  
+**Java programming and software development**.  
+I enjoy learning by building projects and improving my skills step by step.
 
-
-<p align="center">
-I am passionate about learning programming, building projects,  
-and improving my skills in Java and Web Development.  
-This repository showcases one of my practical projects.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Level-Beginner--to--Intermediate-blue?style=for-the-badge">
-</p>
+This repository represents my **practical learning, clean coding approach,  
+and professional project structure**.
 
 ---
 
 ## 🚀 Project Title
-**Professional College Project**
+### **Professional College / Practice Project**
 
 ### 📌 Project Description
-This project is developed as part of my **learning and practice**.  
-It focuses on **clean code, basic logic building, and real-world concepts**.  
-Suitable for **college submission, GitHub portfolio, and self-learning**.
+This project is created for **learning and academic purposes**.  
+It focuses on:
+- Logic building  
+- Clean and readable code  
+- Proper folder structure  
+- Real-world programming basics  
+
+Perfect for **college submission** and **GitHub portfolio**.
 
 ---
 
-## ✨ Features
-✔ Simple & Clean Code  
-✔ Beginner Friendly  
-✔ Proper Folder Structure  
-✔ Easy to Understand Logic  
-✔ Professional Documentation  
+## ✨ Key Features
+✔ Beginner-friendly implementation  
+✔ Well-structured code  
+✔ Easy to understand logic  
+✔ Professional documentation  
+✔ Scalable for future updates  
 
 ---
 
-## 🛠️ Technologies Used
-- **Programming Language:** Java  
-- **Frontend:** HTML, CSS  
-- **IDE:** VS Code  
-- **Version Control:** Git & GitHub  
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Project Structure
+
