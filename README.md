@@ -1,3 +1,16 @@
+<!-- Header Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi%20I'm%20Muskan%20Mathuria&fontSize=38&fontAlignY=35" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=MCA+Student;Java+Learner;Aspiring+Software+Developer;Learning+by+Building+Projects" />
+</p>
+
+---
+
+
 <h1 align="center">Hi 👋, I'm Muskan Mathuria</h1>
 <h3 align="center">MCA Student | Java Learner | Aspiring Software Developer</h3>
 
