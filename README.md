@@ -1,5 +1,5 @@
 <!-- Header Animation -->
-<p align="center">
+<p align="center" style="tahoma">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi%20I'm%20Muskan%20Mathuria&fontSize=38&fontAlignY=35" />
 </p>
 
