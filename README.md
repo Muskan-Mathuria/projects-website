@@ -11,8 +11,6 @@
 ---
 
 
-<h1 align="center">Hi 👋, I'm Muskan Mathuria</h1>
-<h3 align="center">MCA Student | Java Learner | Aspiring Software Developer</h3>
 
 <p align="center">
 I am passionate about learning programming, building projects,  
